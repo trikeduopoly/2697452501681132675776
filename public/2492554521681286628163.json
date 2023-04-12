@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166892152563",
+    "project_id": "pinjol-ojk-legal-tanpa-ktp",
+    "storage_bucket": "pinjol-ojk-legal-tanpa-ktp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166892152563:android:d34712dc29b7aa7ca7f986",
+        "android_client_info": {
+          "package_name": "com.EpicCraft.PinjolOJKLegalTanpaVerifikasiKTP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166892152563-f1q6fa84pl1j5l4h66hjpsk2etu5hni4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCti58Apvcy3kgBsP80uN1Rx4FWdVC-jbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166892152563-f1q6fa84pl1j5l4h66hjpsk2etu5hni4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
